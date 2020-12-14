@@ -11,7 +11,7 @@ PygmentsStyle = "monokai"
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
-googleAnalytics = "G-VQ7KL0507Z"
+googleAnalytics = "UA-165319263-2"
 # disqusShortname = ""
 
 archetypeDir = "archetypes"
