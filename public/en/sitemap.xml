@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://nikolaiteslovich.github.io/shmac/posts/2020/01/flite-test-tiny-trainer-kits/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nikolaiteslovich.github.io/shmac/about/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nikolaiteslovich.github.io/shmac/bylaws/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nikolaiteslovich.github.io/shmac/leadership/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nikolaiteslovich.github.io/shmac/posts/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nikolaiteslovich.github.io/shmac/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nikolaiteslovich.github.io/shmac/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nikolaiteslovich.github.io/shmac/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://nikolaiteslovich.github.io/shmac/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nikolaiteslovich.github.io/shmac/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nikolaiteslovich.github.io/shmac/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://nikolaiteslovich.github.io/shmac/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nikolaiteslovich.github.io/shmac/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nikolaiteslovich.github.io/shmac/tags/"
+                />
+  </url>
+  
+</urlset>

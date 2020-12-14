@@ -1,0 +1,64 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on State High Model Aeronautics Club</title>
+        <link>https://nikolaiteslovich.github.io/shmac/posts/</link>
+        <description>Recent content in Posts on State High Model Aeronautics Club</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://nikolaiteslovich.github.io/shmac/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Flite Test Tiny Trainer Kits</title>
+            <link>https://nikolaiteslovich.github.io/shmac/posts/2020/01/flite-test-tiny-trainer-kits/</link>
+            <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+            
+            <guid>https://nikolaiteslovich.github.io/shmac/posts/2020/01/flite-test-tiny-trainer-kits/</guid>
+            <description>Introduction We needed to start doing something in our club instead of slightly messing around. Niels and I had agreed on a plane—the Flite Test Mini Mighty Trainer—to build as groups in the club. But there was a slight issue: we only had raw foam-board and not the actual cut-out kits. I had an MPCNC (mostly printed CNC) at my house and looked into how I could cut out kits from the raw foam-board.</description>
+            <content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>We needed to start doing something in our club instead of slightly messing around. Niels and I had agreed on a plane—the <a href="https://store.flitetest.com/flite-test-mighty-mini-tiny-trainer-speed-build-electric-airplane-kit-940mm-flt-1023/p673687">Flite Test Mini Mighty Trainer</a>—to build as groups in the club. But there was a slight issue: we only had raw foam-board and not the actual cut-out kits. I had an MPCNC (mostly printed CNC) at my house and looked into how I could cut out kits from the raw foam-board.</p>
+<p>Note: I will make a detailed and replicable tutorial in the future.</p>
+<h2 id="what-i-did">What I Did</h2>
+<h3 id="cutting-tool-of-choice">Cutting Tool of Choice</h3>
+<p>I figured that the best way was to use a needle-cutter attachment to cut out the foam-board. In short, a needle-cutter is needle, powered by a brushless motor, that oscillates rapidly. At first, I tried using a Dremel mounted on the MPCNC and found that it worked decently well except for that the drill dulled quickly and produced a lot of dust. The needle-cutter solved these issues.</p>
+<h3 id="preparing-files">Preparing Files</h3>
+<p>Now that I had figured out what hardware I was going to be using, I had to prepare the files. Flite Test—an amazing organization—has plans for all of its models including the one I was going to cut out. I found the file on their website and it was in the PDF format. I&rsquo;m not quite sure what size of foam-board it was meant for, but it was clearly larger than the 20&rdquo; by 30&rdquo; sheets of foam-board which I was using. Also, the plans had to be converted from PDF to G-code so that the MPCNC could interpret it.</p>
+<p>I had access to Adobe Illustrator, a vector graphic editing tool, which was a substantial help for processing the files. I optimized the files for a total of 3 plane kits, four sheets of foam-board would be sacrificed for this project. Also, I was not going to but out the sport wings for now. The files were exported in a DXF format so that they could be imported into the slicing software.</p>
+<p>I used Estlcam as the slicing software as it was free and had a simple user interface. I imported the DXF files and generated the tool paths and exported the result as a G-code file. It was now ready to be used with the MPCNC.</p>
+<p>Repetier-Host was used as a controller software to instruct the MPCNC on how to cut out the foamboard using G-code files as instructions.</p>
+<h3 id="cutting-out-the-foam-board">Cutting out the foam-board</h3>
+<figure>
+    <img src="/img/needle1.png"
+         alt="Hello Friend"/> <figcaption>
+            <p>MPCNC needle cutter in action</p>
+        </figcaption>
+</figure>
+
+<figure>
+    <img src="/img/needle2.png"
+         alt="Hello Friend"/> <figcaption>
+            <p>Close up of MPCNC needle cutter</p>
+        </figcaption>
+</figure>
+
+<p>I turned on the MPCNC and in about 3 hours, I had everything cut out and ready for the next club meeting.</p>
+<h2 id="files">Files</h2>
+<p>Files are located in the <a href="https://github.com/NikolaiTeslovich/shmac/tree/master/plans">plans</a> directory of the GitHub.</p>
+<h2 id="resources">Resources</h2>
+<ul>
+<li><a href="https://www.flitetest.com/">Flite Test</a>: The organization that designed this plane along with its plans</li>
+<li><a href="https://www.v1engineering.com/specifications/">MPCNC</a>: An inexpensive CNC platform
+<ul>
+<li><a href="https://www.thingiverse.com/thing:2450613">Needle Cutter</a>: MPCNC needle cutter attachment</li>
+</ul>
+</li>
+<li><a href="https://www.adobe.com/products/illustrator.html">Adobe Illustrator</a>: Vector editing Software</li>
+<li><a href="https://inkscape.org/">Inkscape</a>: A free alternative to Adobe Illustrator</li>
+<li><a href="http://www.estlcam.de/">Estlcam</a>: Slicing software</li>
+<li><a href="https://www.repetier.com/">Repetier-Host</a>: Controller software</li>
+</ul>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

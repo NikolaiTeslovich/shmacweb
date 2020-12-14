@@ -1,14 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>State High Model Aeronautics Club</title>
+    <link>https://nikolaiteslovich.github.io/shmac/</link>
+    <description>Recent content on State High Model Aeronautics Club</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nikolaiteslovich.github.io/shmac/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Flite Test Tiny Trainer Kits</title>
+      <link>https://nikolaiteslovich.github.io/shmac/posts/2020/01/flite-test-tiny-trainer-kits/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikolaiteslovich.github.io/shmac/posts/2020/01/flite-test-tiny-trainer-kits/</guid>
+      <description>Introduction We needed to start doing something in our club instead of slightly messing around. Niels and I had agreed on a plane—the Flite Test Mini Mighty Trainer—to build as groups in the club. But there was a slight issue: we only had raw foam-board and not the actual cut-out kits. I had an MPCNC (mostly printed CNC) at my house and looked into how I could cut out kits from the raw foam-board.</description>
+    </item>
+    
+    <item>
+      <title>About the Club</title>
+      <link>https://nikolaiteslovich.github.io/shmac/about/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikolaiteslovich.github.io/shmac/about/</guid>
+      <description>FT Mini Mighty Trainer in flight
+  Our Goal To empower students to explore STEM by learning about basic aerospace engineering and physics concepts through the use of model aircraft. Our members will design and construct, innovate, and learn to fly aircraft that they built themselves.
+Bylaws &amp;amp; Constitution
+Leadership
+Becoming a Member Anyone is welcome as long as they are a high school student at the State College Area School District.</description>
+    </item>
+    
+    <item>
+      <title>Bylaws &amp; Constitution</title>
+      <link>https://nikolaiteslovich.github.io/shmac/bylaws/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikolaiteslovich.github.io/shmac/bylaws/</guid>
+      <description>Abstract These are the Bylaws and Constitution of the State High Model Aeronautics Club. They can be amended if both founders agree on it. If there are the founders are no longer present, 3/4 of elected officials must agree.
+Section 1: Respect for Peers Obviously like other clubs and daily life show respect for yourself and to your peers.
+ No racism No sexism No harassment  Section 2: Safety Observe general safety practices.</description>
+    </item>
+    
+    <item>
+      <title>Leadership</title>
+      <link>https://nikolaiteslovich.github.io/shmac/leadership/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikolaiteslovich.github.io/shmac/leadership/</guid>
+      <description>2020-2021 Officer Positions Founders/Presidents
+ Nikolai Nekrutenko (founding president) Niels Keller (founding vice-president)  Secretary
+ Jeffery Su  Treasurer
+ Melik Demirel  Club Advisor  Patrick Gallagher  2019-2020 Officer Positions Founders/Presidents
+ Nikolai Nekrutenko (founding president) Niels Keller (founding vice-president)  Secretary
+ Jack Erickson  Treasurer
+ Tiryn-ian Todd  Club Advisor  Scott Dzemyan  </description>
+    </item>
     
   </channel>
 </rss>

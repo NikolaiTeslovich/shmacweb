@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://nikolaiteslovich.github.io/shmac/fr/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nikolaiteslovich.github.io/shmac/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nikolaiteslovich.github.io/shmac/fr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://nikolaiteslovich.github.io/shmac/fr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nikolaiteslovich.github.io/shmac/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nikolaiteslovich.github.io/shmac/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://nikolaiteslovich.github.io/shmac/fr/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nikolaiteslovich.github.io/shmac/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://nikolaiteslovich.github.io/shmac/fr/tags/"
+                />
+  </url>
+  
+</urlset>
