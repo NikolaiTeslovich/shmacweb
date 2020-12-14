@@ -12,9 +12,8 @@
                     </svg>
                 </span>
             {{ end }}
-            {{ template "_internal/google_analytics.html" . }}
-
             <span class="theme-toggle unselectable">{{ partial "theme-icon.html" . }}</span>
         </span>
     </span>
+    {{ template "_internal/google_analytics.html" . }}
 </header>
