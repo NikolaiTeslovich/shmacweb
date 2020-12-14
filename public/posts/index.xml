@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on State High Model Aeronautics Club</title>
-        <link>https://nikolaiteslovich.github.io/shmac/posts/</link>
+        <link>https://shmac.netlify.app/posts/</link>
         <description>Recent content in Posts on State High Model Aeronautics Club</description>
         <generator>Hugo -- gohugo.io</generator>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-        <atom:link href="https://nikolaiteslovich.github.io/shmac/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://shmac.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Flite Test Tiny Trainer Kits</title>
-            <link>https://nikolaiteslovich.github.io/shmac/posts/2020/01/flite-test-tiny-trainer-kits/</link>
+            <link>https://shmac.netlify.app/posts/2020/01/flite-test-tiny-trainer-kits/</link>
             <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
             
-            <guid>https://nikolaiteslovich.github.io/shmac/posts/2020/01/flite-test-tiny-trainer-kits/</guid>
+            <guid>https://shmac.netlify.app/posts/2020/01/flite-test-tiny-trainer-kits/</guid>
             <description>Introduction We needed to start doing something in our club instead of slightly messing around. Niels and I had agreed on a plane—the Flite Test Mini Mighty Trainer—to build as groups in the club. But there was a slight issue: we only had raw foam-board and not the actual cut-out kits. I had an MPCNC (mostly printed CNC) at my house and looked into how I could cut out kits from the raw foam-board.</description>
             <content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>We needed to start doing something in our club instead of slightly messing around. Niels and I had agreed on a plane—the <a href="https://store.flitetest.com/flite-test-mighty-mini-tiny-trainer-speed-build-electric-airplane-kit-940mm-flt-1023/p673687">Flite Test Mini Mighty Trainer</a>—to build as groups in the club. But there was a slight issue: we only had raw foam-board and not the actual cut-out kits. I had an MPCNC (mostly printed CNC) at my house and looked into how I could cut out kits from the raw foam-board.</p>

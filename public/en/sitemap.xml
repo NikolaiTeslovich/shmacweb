@@ -3,70 +3,70 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nikolaiteslovich.github.io/shmac/posts/2020/01/flite-test-tiny-trainer-kits/</loc>
+    <loc>https://shmac.netlify.app/posts/2020/01/flite-test-tiny-trainer-kits/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nikolaiteslovich.github.io/shmac/about/</loc>
+    <loc>https://shmac.netlify.app/about/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nikolaiteslovich.github.io/shmac/bylaws/</loc>
+    <loc>https://shmac.netlify.app/bylaws/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nikolaiteslovich.github.io/shmac/leadership/</loc>
+    <loc>https://shmac.netlify.app/leadership/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nikolaiteslovich.github.io/shmac/posts/</loc>
+    <loc>https://shmac.netlify.app/posts/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nikolaiteslovich.github.io/shmac/</loc>
+    <loc>https://shmac.netlify.app/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://nikolaiteslovich.github.io/shmac/fr/"
+                href="https://shmac.netlify.app/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nikolaiteslovich.github.io/shmac/"
+                href="https://shmac.netlify.app/"
                 />
   </url>
   
   <url>
-    <loc>https://nikolaiteslovich.github.io/shmac/categories/</loc>
+    <loc>https://shmac.netlify.app/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://nikolaiteslovich.github.io/shmac/fr/categories/"
+                href="https://shmac.netlify.app/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nikolaiteslovich.github.io/shmac/categories/"
+                href="https://shmac.netlify.app/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://nikolaiteslovich.github.io/shmac/tags/</loc>
+    <loc>https://shmac.netlify.app/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://nikolaiteslovich.github.io/shmac/fr/tags/"
+                href="https://shmac.netlify.app/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nikolaiteslovich.github.io/shmac/tags/"
+                href="https://shmac.netlify.app/tags/"
                 />
   </url>
   
