@@ -17,8 +17,10 @@ aliases = ["officers","administrator", "positions"]
 **Treasurer**
 - Melik Demirel
 
-### Club Advisor
+**Club Advisor**
 - Patrick Gallagher
+
+---
 
 ### 2019-2020 Officer Positions
 **Founders/Presidents**
@@ -31,5 +33,5 @@ aliases = ["officers","administrator", "positions"]
 **Treasurer**
 - Tiryn-ian Todd
 
-### Club Advisor
+**Club Advisor**
 - Scott Dzemyan
