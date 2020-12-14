@@ -1,4 +1,4 @@
-baseURL = "shmac.netlify.app"
+baseURL = "https://shmac.netlify.app/"
 title   = "State High Model Aeronautics Club"
 
 DefaultContentLanguage = "en"
