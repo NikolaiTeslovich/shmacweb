@@ -1,3 +1,8 @@
+<head>
+  {{ template "_internal/google_analytics.html" . }}
+  {{ template "_internal/google_analytics_async.html" . }}
+</head>
+
 <header class="header">
     <span class="header__inner">
         {{ partial "logo.html" . }}
@@ -15,5 +20,4 @@
             <span class="theme-toggle unselectable">{{ partial "theme-icon.html" . }}</span>
         </span>
     </span>
-    {{ template "_internal/google_analytics.html" . }}
 </header>
