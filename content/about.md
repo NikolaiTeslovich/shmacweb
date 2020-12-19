@@ -19,7 +19,7 @@ To empower individuals to have their interests in engineering and science come t
 
 Anyone is welcome as long as they are a high school student at the State College Area School District.
 
-We **used to meet meet** on Tuesdays in room D002. However, due to the pandemic, we are meeting virtually.
+We **used to meet** on Tuesdays in room D002. However, due to the pandemic, we are meeting virtually.
 
 Email us to sign up for the mailing list.
 
