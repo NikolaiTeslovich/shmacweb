@@ -23,6 +23,9 @@ aliases = ["officers","administrator", "positions"]
 ---
 
 ### 2019-2020 Officer Positions
+
+{{< figure src="/img/member1.png" alt="Hello Friend" position="center" style="border-radius: 8px;" caption="" captionPosition="center" >}}
+
 **Founders/Presidents**
 - Nikolai Nekrutenko (founding president)
 - Niels Keller (founding vice-president)
