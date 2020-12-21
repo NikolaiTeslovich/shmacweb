@@ -6,7 +6,7 @@ aliases = ["bylaws","constitution"]
   name = "Hugo Authors"
 +++
 
-{{< figure src="/img/spitfire2.png" alt="Flying Foamboard Machine" title="FT Spitfire (Nikolai's favorite aircraft)" captionPosition="center" >}}
+{{< figure src="/img/spitfire1.png" alt="Flying Foamboard Machine" title="FT Spitfire (Nikolai's favorite aircraft)" captionPosition="center" >}}
 
 ### Abstract
 These are the Bylaws and Constitution of the State High Model Aeronautics Club. They can be amended if both founders agree on it. If the founders are no longer present, 4/5 of elected officials must agree including supervisor.
