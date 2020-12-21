@@ -11,9 +11,6 @@ aliases = ["bylaws","constitution"]
 ### Abstract
 These are the Bylaws and Constitution of the State High Model Aeronautics Club. They can be amended if both founders agree on it. If the founders are no longer present, 4/5 of elected officials must agree including supervisor.
 
-### Our Goal
-To empower individuals to have their interests in engineering and science come to life in a non-traditional learning environment through *Mens et Manus*. The way we set out to do this is to make this club accessible to anyone by making it absolutely free. Our members will design and construct, innovate, and learn to fly aircraft that they built themselves.
-
 ### Section 1: Respect for Peers
 Obviously like other clubs and daily life show respect for yourself and to your peers. We have a zero-tolerance policy meaning that you will be kicked out of the club with no hope of re-admission
 
