@@ -130,5 +130,5 @@ disableHugoGeneratorInject = false
     url        = "bylaws/"
   [[menu.main]]
     identifier = "leadership"
-    name       = "Leadership"
+    name       = "Important People"
     url        = "leadership/"
