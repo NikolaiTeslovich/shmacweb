@@ -11,8 +11,6 @@ aliases = ["about-us","about-hugo","contact"]
 ### Our Goal
 To empower individuals, having their interests in engineering and science come to life in a non-traditional learning environment through *Mens et Manus*. The way we set out to do this is to make this club accessible to anyone by making it free through funding by grants. Our members will design, construct, innovate, and learn to fly aircraft that they make themselves like the one shown below.
 
-{{< figure src="/img/trainer1.png" alt="Flying Foamboard Machine" title="FT Mini Mighty Trainer" captionPosition="center" >}}
-
 ### Becoming a Member
 
 Anyone is welcome as long as they are a high school student at the State College Area School District.
@@ -23,3 +21,5 @@ Email us to sign up for the mailing list.
 
 ### Contact Us
 nxn14@scasd.org and/or nxk26@scasd.org
+
+{{< figure src="/img/trainer1.png" alt="Flying Foamboard Machine" title="FT Mini Mighty Trainer" captionPosition="center" >}}
