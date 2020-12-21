@@ -3,14 +3,15 @@
         <div class="footer__content">
             <span>&copy; {{ now.Format "2006" }}</span>
             {{ if .Site.Author.name }}
-                <span><a href="{{ .Site.BaseURL }}">{{ .Site.Author.name }}</a></span>
+                <span>{{ .Site.Author.name }}</span>
             {{ end }}
             <span>{{ .Site.Copyright| safeHTML }}</span>
-
         </div>
     </div>
     <div class="footer__inner">
         <div class="footer__content">
-        </div>
+            <span>{{ .Site.Params.footerRight | default "Made with &#10084; by <a href=\"https://nnekrut.netlify.app\">Nikolai Nekrutenko</a>" | safeHTML }}</span>
+            <span>{{ .Site.Params.footerLeft | default "Powered by <a href=\"http://gohugo.io\">Hugo</a>" | safeHTML }}</span>
+          </div>
     </div>
 </footer>
