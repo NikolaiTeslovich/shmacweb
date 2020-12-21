@@ -9,11 +9,11 @@ aliases = ["officers","administrator", "positions"]
 ## 2020-2021
 **President**
 
-- Nikolai Nekrutenko (founding president)
+- Nikolai Nekrutenko
 
 **Vice President**
 
-- Niels Keller (founding vice-president)
+- Niels Keller
 
 **Secretary**
 
