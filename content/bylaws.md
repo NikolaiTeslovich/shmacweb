@@ -1,5 +1,5 @@
 +++
-title = "Bylaws & Constitution"
+title = "Bylaws/Constitution"
 date = "2020-01-01"
 aliases = ["bylaws","constitution"]
 [ author ]
