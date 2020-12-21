@@ -88,7 +88,7 @@ disableHugoGeneratorInject = false
     theme = "#252627"
 
   [params.logo]
-    logoText     = "State High Model Aeronautics Club"
+    logoText     = "SHMAC"
     logoHomeLink = "/"
     # Set to a valid CSS color to change the cursor in the logo.
     logoColor    = "#c32148"
@@ -124,3 +124,11 @@ disableHugoGeneratorInject = false
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+  [[menu.main]]
+    identifier = "bylaws"
+    name       = "Bylaws/Constitution"
+    url        = "bylaws/"
+  [[menu.main]]
+    identifier = "leadership"
+    name       = "Leadership"
+    url        = "leadership/"
