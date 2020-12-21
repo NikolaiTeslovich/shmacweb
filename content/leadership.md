@@ -7,17 +7,24 @@ aliases = ["officers","administrator", "positions"]
 +++
 
 ## 2020-2021
-**Founders/Presidents**
+**President**
+
 - Nikolai Nekrutenko (founding president)
+
+**Vice President**
+
 - Niels Keller (founding vice-president)
 
 **Secretary**
+
 - Jeffery Su
 
 **Treasurer**
+
 - Melik Demirel
 
 **Club Advisor**
+
 - Patrick Gallagher
 
 ---
@@ -26,15 +33,22 @@ aliases = ["officers","administrator", "positions"]
 
 {{< figure src="/img/member1.png" alt="Hello Friend" position="center" style="border-radius: 8px;" caption="" captionPosition="center" >}}
 
-**Founders/Presidents**
-- Nikolai Nekrutenko (founding president)
-- Niels Keller (founding vice-president)
+**President**
+
+- Nikolai Nekrutenko
+
+**Vice President**
+
+- Niels Keller
 
 **Secretary**
+
 - Jack Erickson
 
 **Treasurer**
+
 - Tiryn-ian Todd
 
 **Club Advisor**
+
 - Scott Dzemyan
