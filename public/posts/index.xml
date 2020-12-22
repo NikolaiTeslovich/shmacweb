@@ -5,7 +5,7 @@
         <description>Recent content in Posts on State High Model Aeronautics Club</description>
         <generator>Hugo -- gohugo.io</generator>
         <copyright>&lt;a href=&#34;https://opensource.org/licenses/MIT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT License&lt;/a&gt;</copyright>
-        <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Tue, 22 Dec 2020 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://shmac.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
@@ -57,6 +57,51 @@
 <li><a href="http://www.estlcam.de/">Estlcam</a>: Slicing software</li>
 <li><a href="https://www.repetier.com/">Repetier-Host</a>: Controller software</li>
 </ul>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Our First Real Grant!</title>
+            <link>https://shmac.netlify.app/posts/2020/12/our-first-real-grant/</link>
+            <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+            
+            <guid>https://shmac.netlify.app/posts/2020/12/our-first-real-grant/</guid>
+            <description>Note to myself, link in the proposal.
+The long wait is over, we now have $1750 at our disposal! Earlier this month, we were confirmed for the Patrick Wang Grant!
+With this source of funds, we bought some stuff.
+Now what will we do with this stuff? With this stuff, Niels and I will make kits (this time including electronics), enabling the construction of the Flite Test Mini Mighty Trainer.</description>
+            <content type="html"><![CDATA[<p>Note to myself, link in the proposal.</p>
+<h2 id="the-long-wait-is-over-we-now-have-1750-at-our-disposal">The long wait is over, we now have $1750 at our disposal!</h2>
+<p><strong>Earlier this month, we were confirmed for the Patrick Wang Grant!</strong></p>
+<p>With this source of funds, we bought some stuff.</p>
+<p>Now what will we do with this stuff? With this stuff, Niels and I will <a href="/posts/2020/01/flite-test-tiny-trainer-kits/">make kits</a> (this time including electronics), enabling the construction of the Flite Test Mini Mighty Trainer.</p>
+<p>These kits will then be distributed to the club&rsquo;s members and they will build them at home during weekly meetings. When everyone has finished building, we will meet at a local park while socially distancing and wearing masks to teach others how to fly.</p>
+<h2 id="packages-and-a-cart">Packages and a cart</h2>
+<figure>
+    <img src="/img/cart.png"
+         alt="cart near school"/> 
+</figure>
+
+<p>Shoutout to Mr. Ruocchio—the best earth science teacher ever—for letting me borrow this cart. Here it is seen holding the foamboard that Mr. Johnson donated.</p>
+<figure>
+    <img src="/img/packages.png"
+         alt="cart near school"/> 
+</figure>
+
+<p>Earlier today, I picked up some of these materials bought with the grant along with the foamboard we had in room D002!</p>
+<h2 id="however-this-not-our-first-source-of-funding">However, this not our first source of funding</h2>
+<p>The first funds were donated from the one and only amazing Mr. Johnson, State College Area High School&rsquo;s principal. He bought us 50 sheets of foam-board out of which we started building airplanes, I mean chuck-gliders, until the pandemic hit.</p>
+<p>We also received a small grant for $200 from the PTSO, which we are planning to keep as a rainy-day fund.</p>
+<h2 id="what-good-is-a-chuck-glider">What good is a chuck glider?</h2>
+<p>Pretty useless and boring I dare say!</p>
+<p>All of this glider business is about to change as we have some significant funds at our disposal thanks to the Patrick Wang Grant. We have already bought some of the electronics and parts, so that everyone in the club can build their own airplanes and learn how to fly them.</p>
+<p>The reason it&rsquo;s only some of the parts is because the school still needs to approve some of the vendors. Do not fret, we are working on this currently.</p>
+<h2 id="implementation-timeline">Implementation timeline</h2>
+<p><em>Dec-Jan:</em> Niels and I make the kits</p>
+<p><em>Jan:</em> Niels and I distribute the kits</p>
+<p><em>Jan-March:</em> Members will build the aircraft</p>
+<p><em>March-April:</em> Meet in a local park and teach members how to fly</p>
+<p><em>April-June:</em> Keep flying, transition from the large wing to the sports-style wing with ailerons, and maybe build some new aircraft</p>
 ]]></content>
         </item>
         

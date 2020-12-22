@@ -8,6 +8,36 @@
   </url>
   
   <url>
+    <loc>https://shmac.netlify.app/tags/funding/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shmac.netlify.app/tags/grant/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shmac.netlify.app/posts/2020/12/our-first-real-grant/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shmac.netlify.app/posts/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shmac.netlify.app/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shmac.netlify.app/tags/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://shmac.netlify.app/about/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -23,21 +53,7 @@
   </url>
   
   <url>
-    <loc>https://shmac.netlify.app/posts/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shmac.netlify.app/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://shmac.netlify.app/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://shmac.netlify.app/tags/</loc>
   </url>
   
 </urlset>

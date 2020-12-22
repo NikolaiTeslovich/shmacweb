@@ -6,7 +6,7 @@
     <description>Recent content on State High Model Aeronautics Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://opensource.org/licenses/MIT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT License&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shmac.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,6 +18,18 @@
       
       <guid>https://shmac.netlify.app/posts/2020/01/flite-test-tiny-trainer-kits/</guid>
       <description>Introduction We needed to start doing something in our club instead of slightly messing around. Niels and I had agreed on a plane—the Flite Test Mini Mighty Trainer—to build as groups in the club. But there was a slight issue: we only had raw foam-board and not the actual cut-out kits. I had an MPCNC (mostly printed CNC) at my house and looked into how I could cut out kits from the raw foam-board.</description>
+    </item>
+    
+    <item>
+      <title>Our First Real Grant!</title>
+      <link>https://shmac.netlify.app/posts/2020/12/our-first-real-grant/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shmac.netlify.app/posts/2020/12/our-first-real-grant/</guid>
+      <description>Note to myself, link in the proposal.
+The long wait is over, we now have $1750 at our disposal! Earlier this month, we were confirmed for the Patrick Wang Grant!
+With this source of funds, we bought some stuff.
+Now what will we do with this stuff? With this stuff, Niels and I will make kits (this time including electronics), enabling the construction of the Flite Test Mini Mighty Trainer.</description>
     </item>
     
     <item>

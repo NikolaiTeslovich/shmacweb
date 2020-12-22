@@ -1,7 +1,7 @@
 ---
 title: "Our First Real Grant!"
 date: 2020-12-22
-draft: true
+draft: false
 toc: false
 images:
 tags:
