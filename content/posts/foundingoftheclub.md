@@ -1,4 +1,5 @@
 ---
+draft: true
 author:
   name: "Nikolai Nekrutenko"
 date: 2020-12-22
