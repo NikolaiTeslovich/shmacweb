@@ -9,7 +9,7 @@ aliases = ["about-us","about-hugo","contact"]
 {{< figure src="/img/clubworking.png" alt="Flying Foamboard Machine" title="Pre-COVID-19" captionPosition="center" >}}
 
 ### Our Goal
-To empower individuals, having their interests in engineering and science come to life in a non-traditional learning environment through *Mens et Manus*. The way we set out to do this is to make this club accessible to anyone by making it free through funding by grants. Our members will collaborate, design, construct, innovate, and learn to fly aircraft that they make themselves like the one shown below.
+To spark interests in engineering and science come and allow them to turn into a fire in a non-traditional learning environment through *Mens et Manus*. The way we set out to do this is to make this club accessible to anyone by making it free through funding by grants. Our members will collaborate, design, construct, innovate, and learn to fly aircraft that they make themselves like the one shown below.
 
 ### Becoming a Member
 
