@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://shmac.netlify.app/posts/2020/12/flite-test-tiny-trainer-kits/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://shmac.netlify.app/posts/2020/01/flite-test-tiny-trainer-kits/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shmac.netlify.app/posts/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shmac.netlify.app/</loc>
+    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -19,16 +34,6 @@
   
   <url>
     <loc>https://shmac.netlify.app/leadership/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shmac.netlify.app/posts/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shmac.netlify.app/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
