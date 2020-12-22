@@ -20,6 +20,8 @@ Obviously like other clubs and daily life show respect for yourself and to your 
  - No sexism
  - No harassment
 
+---
+
 ### Section 2: Safety
 Observe general safety practices. For example:
 
@@ -38,6 +40,7 @@ Know how to handle LiPo batteries.
 
 > We aren’t looking to get any Darwin Awards
 
+---
 
 ### Section 3: Flight
 You are responsible for your actions, for example, the plane you fly.
@@ -48,6 +51,8 @@ You are responsible for your actions, for example, the plane you fly.
 - Do not intentionally try to collide with others unless we are doing combat.
 - Keep the plane in your line of sight at ALL times.
 
+---
+
 ### Section 4: Property of the Club
 Objects purchased by the club are club property. This includes electronics, building materials/equipment, and planes.
 
@@ -57,6 +62,7 @@ Do not steal or vandalize property of the club, or properties that are on loan f
 - If someone is determined to be purposely destroying, or stealing club materials, they may face SCASD punishment.
 - You will be kicked out of the club with a zero-tolerance policy.
 
+---
 
 ### Section 5: Leadership
 The officer positions are as follows:
@@ -69,13 +75,19 @@ The maximum term for any position is 2 years.
 
 If a person in office leaves or graduates, an election is held to fill this position. Every member has a vote, and the majority rules. (Except for the president/vice president positions. If the president leaves, the vice president fills their position. If the vice president leaves the president decides who fills their place)
 
+---
+
 ### Section 6: Decision Making
 Decisions will be made by the majority vote of the president/vice-president, and the supervisor.
+
+---
 
 ### Section 7: Liability
 You agree to release any and all liabilities on SCASD and/or any and all members of the club.
 
 You are responsible for your own plane. This includes abiding by all rules, laws, restrictions, and regulations.
+
+---
 
 ### Section 8: Amendments
 - 10/25/2020 If officers don’t show up for a certain amount of time, they will be removed from their position when agreed upon by president/vice president

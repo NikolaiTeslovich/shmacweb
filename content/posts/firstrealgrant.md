@@ -1,5 +1,6 @@
 ---
 title: "Our First Real Grant!"
+name: Nikolai Nekrutenko
 date: 2020-12-22
 draft: false
 toc: false
@@ -7,7 +8,7 @@ images:
 tags:
   - grant
   - funding
-  - cart 
+  - cart
 ---
 Note to myself, link in the proposal.
 
