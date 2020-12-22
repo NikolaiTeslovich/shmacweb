@@ -7,10 +7,13 @@ images:
 tags:
   - grant
   - funding
+  - cart 
 ---
 Note to myself, link in the proposal.
 
 ## Packages and a cart
+
+Ever since the pandemic struck, our supplies have been sitting in the school in room D002. The things purchased with the grant were also there. This needed to be addressed.
 
 {{< figure src="/img/cart.png" alt="cart near school" title="" captionPosition="center" >}}
 
@@ -18,7 +21,7 @@ Shoutout to Mr. Ruocchio—the best earth science teacher—for letting me borro
 
 {{< figure src="/img/packages.png" alt="cart near school" title="" captionPosition="center" >}}
 
-Earlier today, I picked up some of these materials bought with the grant along with the foamboard we had in room D002!
+Earlier today, I picked up some of these materials bought with the grant along with the foamboard.
 
 ## The long wait is over, we now have $1750 at our disposal!
 
