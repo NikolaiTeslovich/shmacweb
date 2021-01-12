@@ -58,7 +58,8 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "SHMAC 2020"
+  # got rid of the home subtitle, and edited it in the index.html to update based on the year instead
+  homeSubtitle = "SHMAC 2021"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
